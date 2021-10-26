@@ -20,7 +20,7 @@ $(document).ready(function()
                 {
                     if(response === "success")
                     {
-                        window.location.href = "http://localhost/WebDev2/index.php?login=success";
+                        window.location.href = "http://localhost/WebDev2/home.php?login=success";
                     }
                     else
                     {
